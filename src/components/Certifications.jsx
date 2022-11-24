@@ -18,11 +18,11 @@ const Certifications = () => {
                     </path>
                 </svg>
                 <div class="ml-4 text-2xl text-[#0a9396]">
-                    AWS Certification:
+                    Coursera Google Cloud Certification:
                 </div>
             </div>
             <p class="leading-loose text-[#005f73] dark:text-gray-200 text-md">
-                <a href="https://drive.google.com/file/d/1TxJ4JNbiiK2OhXV1XcJOCEssShGdmPHF/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>AWS Certificate Completition In CLoud Computing</a>
+                <a href="https://drive.google.com/file/d/1VgcWHe8psroItQF0qWYmrlgtRxqvb_m1/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>Certificate Completition In CLoud Computing</a>
             </p>
         </div>
         <div class="w-full border-b md:w-1/2 lg:w-1/3 lg:border-r p-8">
@@ -36,7 +36,7 @@ const Certifications = () => {
                 </div>
             </div>
             <p class="leading-loose text-[#005f73] dark:text-gray-200 text-md">
-                <a href='https://www.hackerrank.com/ab2259/hackos' target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>Recieved 5 Stars in Python on Hackerrank.</a>
+                <a href='https://www.hackerrank.com/rd8114' target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>Recieved 5 Stars in Python on Hackerrank.</a>
             </p>
         </div>
     </div>
