@@ -48,9 +48,6 @@ const Navbar = () => {
                             <Link to="Skills" spy={true} smooth={true} offset={0} duration={500} className="  focus:text-[#94d2bd] hover:text-[#94d2bd] px-3 py-2 rounded-md text-sm font-medium">
                                 Skills
                             </Link>
-                            <Link to="Achievements" spy={true} smooth={true} offset={0} duration={500} className="  focus:text-[#94d2bd] hover:text-[#94d2bd] px-3 py-2 rounded-md text-sm font-medium">
-                                Achievements
-                            </Link>
                             <Link to="Projects" spy={true} smooth={true} offset={0} duration={500} className=" focus:text-[#94d2bd] hover:text-[#94d2bd] px-3 py-2 rounded-md text-sm font-medium">
                                 Projects
                             </Link>
@@ -85,9 +82,6 @@ const Navbar = () => {
                 </Link>
                 <Link to="Skills" spy={true} smooth={true} offset={0} duration={500}  className="  focus:text-[#94d2bd] hover:text-[#94d2bd] px-3 py-2 rounded-md text-sm font-medium" href="/#Skills">
                     Skills
-                </Link>
-                <Link to="Achievements" spy={true} smooth={true} offset={-50} duration={500}  className="  focus:text-[#94d2bd] hover:text-[#94d2bd] px-3 py-2 rounded-md text-sm font-medium" href="/#Achievements">
-                    Achievements
                 </Link>
                 <Link to="Projects" spy={true} smooth={true} offset={0} duration={500}  className="  focus:text-[#94d2bd] hover:text-[#94d2bd] px-3 py-2 rounded-md text-sm font-medium" href="/#Projects">
                     Projects

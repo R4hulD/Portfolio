@@ -1,5 +1,5 @@
 import React from 'react'
-import { FiGithub, FiInstagram, FiTwitter, FiLinkedin, FiAtSign, FiMeh} from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiAtSign, FiMeh} from 'react-icons/fi';
 
 const Contact = () => {
   return (
